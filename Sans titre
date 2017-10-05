@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Ma page google</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Muli%7CRoboto:400,300,500,700,900" rel="stylesheet"></head>
+  <body>
+
+
+    <div class="main-nav">
+        <ul class="nav">
+          <li class="name">Home</li>
+           <li><a href="#">gmail</a></li>
+          <li><a href="#">images</a></li>
+          </ul>
+    </div>
+
+    <header>
+      <header>
+      <img src="images/me.jpg" alt="logo" class="logo google">
+
+    </header>
+</div><div class="init" id="fkbx"><div id="fkbx-text"></div><input id="q" aria-hidden="true" autocomplete="off" name="q" tabindex="3" type="url" jsaction="mousedown:ntp.fkbxclk"><div id="fkbx_crt"></div><div id="fkbx-spch" tabindex="0"></div><div id="fkbx-hspch" tabindex="0"></div><div id="fkbx-hht"></div>
+    <main class="flex">
+
+
+      </div>
+
+    </main>
+    <footer>
+        <ul>
+            <li>
+          <a href=“https://www.google.fr/intl/fr/ads/?fg=1” title=“publicité!“>pub</a>
+
+         <a href=“https://www.google.fr/services/?fg=1” title=“entreprise” >entreprise</a>
+
+         <a href=“https://www.google.fr/intl/fr/about.html?fg=1” title=“A propos” >A propos  </a>
+           <a href=“https://www.google.fr/intl/fr/policies/privacy/?fg=1” title=“confidentialité” >confidentialité</a>
+
+          <a href=“https://www.google.fr/intl/fr/policies/terms/?fg=1” title=“Conditions” >Conditions</a>
+
+           <a href=“https://www.google.fr/preferences?hl=fr” title=“Paramètres” >Paramètres</a>
+            </li>
+        </ul>
+      <p class="copyright">Copyright 2017, Serpil COSKUN</p>
+    </footer>
+  </body>
+  </html>
